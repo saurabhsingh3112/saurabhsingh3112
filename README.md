@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on deep learning project and android development<br>👯 I’m looking to collaborate on machine learning projects<br>
+🔭 I’m currently working on ML/DL projects and android development<br>👯 I’m looking to collaborate on machine learning projects<br>
 
 
 ## 🌐 Socials:
