@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ML/DL projects and android development<br>👯 I’m looking to collaborate on ML/DL projects<br>Ask me about AI/ML projects and aptitute or mathematical problems<br> 🎤 Fun Fact: My error messages come with a musical twist. If only computers could appreciate my vocal talents! 🎼💻
+🔭 I’m currently working on ML/DL projects and android development<br>👯 I’m looking to collaborate on ML/DL projects<br>🌟Ask me about AI/ML projects and aptitute or mathematical problems<br> 🎤 Fun Fact: My error messages come with a musical twist. If only computers could appreciate my vocal talents! 🎼💻
 
 
 ## 🌐 Socials:
