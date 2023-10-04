@@ -1,3 +1,8 @@
+<a href="https://makeagif.com/gif/city-of-gamers-chillgamingstudying-lofi-hip-hop-mix-1-hour-ImpZfH">
+  <img src="https://makeagif.com/gif/city-of-gamers-chillgamingstudying-lofi-hip-hop-mix-1-hour-ImpZfH" alt="![image](https://github.com/saurabhsingh3112/saurabhsingh3112/assets/133311462/55ebaf38-c337-466c-91d1-f1d8b215c2a0)
+" width="600" height="300" align="center" />
+</a>
+
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 <h3 align="center">Exploring the Boundaries of AI and ML</h3>
 
