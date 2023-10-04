@@ -1,10 +1,8 @@
-<a href="https://makeagif.com/gif/city-of-gamers-chillgamingstudying-lofi-hip-hop-mix-1-hour-ImpZfH">
-  <img src="https://makeagif.com/gif/city-of-gamers-chillgamingstudying-lofi-hip-hop-mix-1-hour-ImpZfH" alt="![image](https://github.com/saurabhsingh3112/saurabhsingh3112/assets/133311462/55ebaf38-c337-466c-91d1-f1d8b215c2a0)
-" width="600" height="300" align="center" />
-</a>
-
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 <h3 align="center">Exploring the Boundaries of AI and ML</h3>
+
+<img align="right" alt="coding" width="350" src="![image](https://github.com/saurabhsingh3112/saurabhsingh3112/assets/133311462/e5cdf6d2-9582-47fc-9af2-3d309d450f8d)
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhsingh3112&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhsingh3112" /> </p>
 
