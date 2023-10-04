@@ -1,4 +1,4 @@
-<img align ="center" alt = "coding" width = "1000" src = "![image](https://github.com/saurabhsingh3112/saurabhsingh3112/assets/133311462/064d7d96-0543-48f2-a7bf-0215914d78d5)
+<img align ="center" alt = "coding" width = "3000" src = "![image](https://github.com/saurabhsingh3112/saurabhsingh3112/assets/133311462/064d7d96-0543-48f2-a7bf-0215914d78d5)
 "
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 <h3 align="center">Exploring the Boundaries of AI and ML</h3>
