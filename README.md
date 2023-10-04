@@ -1,5 +1,6 @@
-<img src="![image](https://github.com/saurabhsingh3112/saurabhsingh3112/assets/133311462/3c21bd33-87a8-445f-be0f-a299fbfe3913)
-" width="3000" height="300">
+<img src="![image](![image](https://github.com/saurabhsingh3112/saurabhsingh3112/assets/133311462/a5330611-a5c6-40b0-926a-2dbabd433465)
+)
+" width="2000" height="300">
 
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 <h3 align="center">Exploring the Boundaries of AI and ML</h3>
