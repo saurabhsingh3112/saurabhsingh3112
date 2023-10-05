@@ -1,4 +1,5 @@
-![](https://github.com/saurabhsingh3112/saurabhsingh3112/blob/main/pixel-night.gif){width=2000}
+![Design and Development](https://github.com/saurabhsingh3112/saurabhsingh3112/assets/133311462/48ec3eac-3e9e-4371-a207-83d8a668b0a2){width=2000}
+
 
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 <h3 align="center">Exploring the Boundaries of AI and ML</h3>
