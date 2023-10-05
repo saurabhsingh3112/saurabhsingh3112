@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/saurabhsingh3112/saurabhsingh3112/assets/133311462/48ec3eac-3e9e-4371-a207-83d8a668b0a2" alt="Design and Development" width="2000" />
-</div>
+<img src="https://github.com/saurabhsingh3112/saurabhsingh3112/raw/main/assets/133311462/48ec3eac-3e9e-4371-a207-83d8a668b0a2.gif" alt="Design and Development" width="2000" />
 
 
 
