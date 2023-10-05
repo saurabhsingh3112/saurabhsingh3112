@@ -1,3 +1,5 @@
+![](https://github.com/saurabhsingh3112/saurabhsingh3112/blob/main/pixel-night.gif)
+
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 <h3 align="center">Exploring the Boundaries of AI and ML</h3>
 
