@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **saurabhsinghcse3112@gmail.com**
 
-- ⚡ Fun fact **If you could drive your car upwards,you would reach reach space in less than an hour**
+- ⚡ Fun fact **If you could drive your car upwards,you would reach space in less than an hour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
