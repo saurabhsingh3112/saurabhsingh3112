@@ -13,17 +13,17 @@
 
 <p align="left"> <a href="https://twitter.com/saurabh80202574" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh80202574?logo=twitter&style=for-the-badge" alt="saurabh80202574" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning and android development based projects**
+- 🔭 I’m currently working on **Machine learning and Django based projects**
 
-- 🌱 I’m currently learning **video editing, advanced ML algorithms and C++**
+- 🌱 I’m currently learning **video editing, ML algorithms, Web development
 
-- 👯 I’m looking to collaborate on **Machine learning/Deep learning projects**
+- 👯 I’m looking to collaborate on **Machine learning and Web development (Django / Flask) based projects**
 
-- 💬 Ask me about **machine learning based projects and aptitude or mathematical problems**
+- 💬 Ask me about **machine learning/Web development based projects and aptitude or mathematical problems**
 
 - 📫 How to reach me **saurabhsinghcse3112@gmail.com**
 
-- ⚡ Fun fact **If you could drive your car upwards,you would reach space in less than an hour**
+- ⚡ Fun fact **The QWERTY keyboard layout was designed to slow down typing speed and prevent mechanical typewriter jams, not to optimize typing efficiency.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
